@@ -1,5 +1,7 @@
 # Pandas: Heroes of Pymoli
 
+Using data from a fictitious gaming company, generate a report that breaks down the game's purchasing data into meaningful insights.
+
 Use Pandas to include each of the following:
 
 ### Player Count
