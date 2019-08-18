@@ -1,7 +1,4 @@
-# Pandas
-Pandas  
-
-## Heroes of Pymoli
+# Pandas: Heroes of Pymoli
 
 Use Pandas to include each of the following:
 
